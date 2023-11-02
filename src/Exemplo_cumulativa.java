@@ -13,7 +13,8 @@ public class Exemplo_cumulativa {
         minutos = sc.nextInt();
 
         if (minutos > 100){
-            conta = conta + (minutos - 100) * 2.0;
+ //           conta = conta + (minutos - 100) * 2.0;
+            conta += (minutos - 100) * 2.0; // expressão cumulativa
         }
         System.out.printf("Total a ser pago: R$ %.2f%n", conta);
 
