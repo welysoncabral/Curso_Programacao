@@ -42,6 +42,7 @@ public class Exer_11 {
             System.out.println("Voce digitou um número incorreto tente novamente!");
         }
 
+        System.out.println("Digite o código do produto");
 
     }
 }
