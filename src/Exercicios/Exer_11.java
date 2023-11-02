@@ -41,5 +41,6 @@ public class Exer_11 {
         else{
             System.out.println("Voce digitou um número incorreto tente novamente!");
         }
+        sc.close();
     }
 }
