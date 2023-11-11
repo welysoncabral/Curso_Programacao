@@ -9,6 +9,7 @@ public class Exer_13 {
             System.out.print(x);
             y = y + x;
             x = x - 1;
+
         }
     }
 }
