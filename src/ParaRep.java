@@ -15,4 +15,5 @@ public class ParaRep {
         System.out.println(soma);
         sc.close();
     }
+    
 }
