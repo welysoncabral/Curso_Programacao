@@ -1,9 +1,8 @@
 package Exercicios;
 
-import java.util.Locale;
 import java.util.Scanner;
 
-public class Ecer_for_2 {
+public class Exer_for_2 {
     public static void main(String[] args) {
 
         int in = 0;
